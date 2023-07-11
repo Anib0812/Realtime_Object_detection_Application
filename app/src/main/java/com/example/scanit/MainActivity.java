@@ -1,3 +1,10 @@
+/**
+ * This is an object detection Android Application used to classify realtime image
+ *
+ *
+ * Author: Aniket Biswal
+ * Date: July 1,2023
+ */
 package com.example.scanit;
 
 import androidx.annotation.Nullable;
